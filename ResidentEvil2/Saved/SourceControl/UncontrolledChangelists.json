@@ -69,7 +69,21 @@
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/ResidentEvil2/Content/Game/Leon/UI/WBP_Aim.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/ResidentEvil2/Content/Game/Leon/UI/WBP_Aim1.uasset",
-				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Blueprints/BP_Leon.uasset"
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Blueprints/BP_Leon.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Levels/Constructor.umap",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Idle.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Jog_Forward.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Walking.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Walk.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Walk_Backward.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Strafe_Left.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Strafe_Right.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Walking_Backwards.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Blueprints/ABP_Leon.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Input/IMC_Leon.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/BS_AimMovement.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/BS_FreeMovement.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Idle.uasset"
 			]
 		}
 	]
