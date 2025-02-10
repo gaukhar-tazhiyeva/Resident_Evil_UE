@@ -83,7 +83,12 @@
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Input/IMC_Leon.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/BS_AimMovement.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/BS_FreeMovement.uasset",
-				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Idle.uasset"
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Idle.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_AimUp.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_AimDown.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/AO_VerticalAimPistol.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Shoot.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Input/IA_Shoot.uasset"
 			]
 		}
 	]
