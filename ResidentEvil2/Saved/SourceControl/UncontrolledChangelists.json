@@ -88,7 +88,11 @@
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_AimDown.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/AO_VerticalAimPistol.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Shoot.uasset",
-				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Input/IA_Shoot.uasset"
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Input/IA_Shoot.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Reloading.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Input/IA_Reload.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/PistolReload.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Mesh0/Swat_Skeleton.uasset"
 			]
 		}
 	]
