@@ -89,10 +89,28 @@
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/AO_VerticalAimPistol.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol_Shoot.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Input/IA_Shoot.uasset",
-				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Reloading.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Input/IA_Reload.uasset",
 				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/PistolReload.uasset",
-				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Mesh0/Swat_Skeleton.uasset"
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Mesh0/Swat_Skeleton.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/StarterContent/Materials/M_CobbleStone_Rough_Test.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Weapons/ENUM_Weapons.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Input/IA_ChangeWeapon.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/Pistol_AimDown.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/AO_VerticalAimPistol.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/Pistol_AimUp.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/Pistol_Idle.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/Pistol_Shoot.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/Pistol_Strafe_Left.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/Pistol_Strafe_Right.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/Pistol_Walk.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/Pistol_Walk_Backward.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/PistolReload.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Pistol/BS_AimMovement.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Shotgun/Reloading.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Shotgun/Rifle_Aiming_Idle.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Shotgun/Rifle_Idle.uasset",
+				"C:/Users/bakhr/Desktop/Resident Evil 2/git/Resident_Evil_UE/ResidentEvil2/Content/Game/Leon/Animations/Reloading.uasset"
 			]
 		}
 	]
